@@ -8,6 +8,7 @@
 （2）使用potrace把位图转换成矢量图，参考：https://github.com/skyrpex/potrace
 
 图片放大：
+
  a、使用sd进行图片高清放大，其中一种方法参考：
 	自行部署sd模型服务
 	url:/extra_images
@@ -29,6 +30,8 @@
 					"upscale_first"=> false,
 					"image" => $base64Image
 				];
+				
   b、纯前端的upscaler参考：https://github.com/gosunny2050/UpscalerJS
-(3) 移除背景，方法参考： 
+
+移除背景，方法参考： 
     https://github.com/gosunny2050/backgroundremover
