@@ -3,9 +3,9 @@
 
 矢量图转换：
 
-（1）检查图片不是位图的话，使用ImageMagick先把图转换成bmp位图，参考：https://github.com/ImageMagick/ImageMagick
+（1）检查图片不是位图的话，使用ImageMagick先把图转换成bmp位图，参考：https://github.com/gosunny2050/ImageMagick
 
-（2）使用potrace把位图转换成矢量图，参考：https://github.com/skyrpex/potrace
+（2）使用potrace把位图转换成矢量图，参考：https://github.com/gosunny2050/potrace
 
 图片放大：
 
